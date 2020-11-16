@@ -5,7 +5,7 @@ iDroid is an operating system for phones that will be left open-sourced for peop
 Sadly you cannot install as of now since we are still working on iDroidOS, we hope it will be released sometime this year.
 
 ## Early Development Pictures
-Just wait for it...please.
+Just wait for it...please...unless you want to see some ugly UI
 
 ## Want to contribute?
 Please contact ``Derpy Lua#0001 (425616419535847435)`` on discord and I will get back to you ASAP.
